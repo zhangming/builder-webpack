@@ -13,6 +13,7 @@
             - npm install -D
             - cd ./test/template
             - npm install -D
+            - cd ../../../
         
         script:
             - npm test
